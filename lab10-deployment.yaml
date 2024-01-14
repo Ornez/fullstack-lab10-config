@@ -19,4 +19,4 @@ spec:
     spec:
       containers:
         - name: lab10-app
-          image: student232323/lab10-app:1.0.1
+          image: student232323/lab10-app:1.0.2
